@@ -1,5 +1,5 @@
 # Basic-control-structures-in-python
-two codes that checks  
+two codes that checks
 1). If a Number is Even or Odd
 -- takes an int input from the user
 -- checks whether the number is even or odd using if-else statement
